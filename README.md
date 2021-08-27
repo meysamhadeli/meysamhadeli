@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Meysam Hadeli 👋</h1>
 
 <p align="center"> 
- <a href="https://github.com/meysamhadeli/vistr.dev" alt="meysam hadeli's github stats">
-  <img src="https://vistr.dev/badge?repo=meysamhadeli&corners=square" />
- </a>
  <a href="https://github.com/meysamhadeli" alt="meysam hadeli's github stats">
    <img src="https://img.shields.io/badge/-@meysamhadeli-%23181717?style=flat-square&logo=github" />
  </a>
