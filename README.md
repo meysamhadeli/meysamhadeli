@@ -2,7 +2,7 @@
 
 <p align="center"> 
  <a href="https://github.com/meysamhadeli" alt="meysam hadeli's github stats">
-   <img src="https://img.shields.io/badge/-@meysamhadeli-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/-meysamhadeli-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/meysamhadeli" alt="meysam hadeli's github stats">
    <img src="https://img.shields.io/badge/-meysamhadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meysamhadeli" />
