@@ -67,7 +67,7 @@
 
 ---
 <p align="center">
-## 📙 Recent Blog Posts
+<h4>📙 Recent Blog Posts </h4>
 <!--START_SECTION:feed-->
 * [Outbox Pattern in .Net Core](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;outbox-patren&#x2F;)
 * [Caching pipeline behavior with MediatR](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;caching-pipeline-behavior&#x2F;)
