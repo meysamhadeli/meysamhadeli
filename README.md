@@ -9,6 +9,24 @@
  </a>
 </p>
 
+> I’m a software engineer with +7 years of experience in developing and designing distributed applications built on top
+of cutting-edge technologies. I mainly develop using .net and go, but would love to work with new languages and
+technologies wherever an opportunity presents itself. I'm an active open-source developer working on numerous
+projects related to microservices, distributed systems and cloud native based apps.
+<p> 
+ <strong>
+📙 Recent Blog Posts 
+  </strong>
+</p>
+ 
+<!--START_SECTION:feed-->
+* [Outbox Pattern in .Net Core](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;outbox-patren&#x2F;)
+* [Caching pipeline behavior with MediatR](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;caching-pipeline-behavior&#x2F;)
+* [Immutable Collections in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-collections&#x2F;)
+* [Immutable Objects in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-objects&#x2F;)
+* [Lazy Initialization In C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;lazy-initilization&#x2F;)
+<!--END_SECTION:feed-->
+
 <p align="center"> 
  <strong>
   Professional skills
@@ -65,17 +83,6 @@
 </p>
 <br/>
 
----
-<p align="center">
-<h4>📙 Recent Blog Posts </h4>
-<!--START_SECTION:feed-->
-* [Outbox Pattern in .Net Core](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;outbox-patren&#x2F;)
-* [Caching pipeline behavior with MediatR](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;caching-pipeline-behavior&#x2F;)
-* [Immutable Collections in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-collections&#x2F;)
-* [Immutable Objects in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-objects&#x2F;)
-* [Lazy Initialization In C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;lazy-initilization&#x2F;)
-<!--END_SECTION:feed-->
- </p>
 ---
 <p align="center">
   <a href="#" alt="meysam hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=meysamhadeli" /></a>
