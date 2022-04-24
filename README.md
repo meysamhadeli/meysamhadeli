@@ -67,10 +67,6 @@
 
 ---
 
-<p align="center">
-  <a href="#" alt="meysam hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=meysamhadeli" /></a>
-</p>
-
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
 * [Outbox Pattern in .Net Core](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;outbox-patren&#x2F;)
@@ -79,3 +75,7 @@
 * [Immutable Objects in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-objects&#x2F;)
 * [Lazy Initialization In C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;lazy-initilization&#x2F;)
 <!--END_SECTION:feed-->
+
+<p align="center">
+  <a href="#" alt="meysam hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=meysamhadeli" /></a>
+</p>
