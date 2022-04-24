@@ -10,6 +10,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://meysamhadeli/rss/
+          feed-url: https://meysamhadeli.com/rss/
           readme-section: feed
           max: 5 # max number of items (default 5)
