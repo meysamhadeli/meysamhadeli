@@ -11,8 +11,7 @@
 
 > I’m a software engineer with +7 years of experience in developing and designing distributed applications built on top
 of cutting-edge technologies. I mainly develop using .net and go, but would love to work with new languages and
-technologies wherever an opportunity presents itself. I'm an active open-source developer working on numerous
-projects related to microservices, distributed systems and cloud native based apps.
+technologies wherever an opportunity presents itself. I'm aspiring to share my knowledge with others through blogs and open source projects.
 <p> 
  <strong>
 📙 Recent Blog Posts 
