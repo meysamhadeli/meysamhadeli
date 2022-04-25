@@ -7,6 +7,12 @@
  <a href="https://www.linkedin.com/in/meysamhadeli" alt="meysam hadeli's github stats">
    <img src="https://img.shields.io/badge/-meysamhadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meysamhadeli" />
  </a>
+  <a href="https://meysamhadeli.com" alt="meysam hadeli's blog">
+   <img src="https://img.shields.io/badge/meysamhadeli-6e5494?style=flat-square&logo=rss&logoColor=white" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=meysamhadeli&color=ff69b4&style=flat-square" />
+ </a>
 </p>
 
 > I’m a software engineer with +7 years of experience in developing and designing distributed applications built on top
