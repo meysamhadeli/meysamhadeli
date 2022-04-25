@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/-meysamhadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meysamhadeli" />
  </a>
   <a href="https://meysamhadeli.com" alt="meysam hadeli's blog">
-   <img src="https://img.shields.io/badge/meysamhadeli-6e5494?style=flat-square&logo=rss&logoColor=white" />
+   <img src="https://img.shields.io/badge/meysamhadeli-967bb6?style=flat-square&logo=rss&logoColor=white" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=meysamhadeli&color=ff69b4&style=flat-square" />
