@@ -25,7 +25,6 @@ technologies wherever an opportunity presents itself. I'm aspiring to share my k
 </p>
  
 <!--START_SECTION:feed-->
-* [Outbox Pattern in .Net Core](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;outbox-patren&#x2F;)
 * [Caching pipeline behavior with MediatR](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;caching-pipeline-behavior&#x2F;)
 * [Immutable Collections in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-collections&#x2F;)
 * [Immutable Objects in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-objects&#x2F;)
