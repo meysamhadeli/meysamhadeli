@@ -25,10 +25,7 @@ technologies wherever an opportunity presents itself. I'm aspiring to share my k
 </p>
  
 <!--START_SECTION:feed-->
-* [Caching pipeline behavior with MediatR](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;caching-pipeline-behavior&#x2F;)
-* [Immutable Collections in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-collections&#x2F;)
-* [Immutable Objects in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;immutable-objects&#x2F;)
-* [Lazy Initialization In C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;lazy-initilization&#x2F;)
+
 <!--END_SECTION:feed-->
 
 <p align="center"> 
