@@ -12,4 +12,6 @@ jobs:
         with:
           feed-url: https://meysamhadeli.com/rss/
           readme-section: feed
+      - uses: actions/checkout@v2
+        with:
           ref: main
