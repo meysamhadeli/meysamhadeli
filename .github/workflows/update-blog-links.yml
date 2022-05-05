@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - main 
-        schedule:
-        # Once a day at 8 AM
-          - cron: 0 10 * * *
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 10 * * *
 jobs:
   update:
     runs-on: ubuntu-latest
