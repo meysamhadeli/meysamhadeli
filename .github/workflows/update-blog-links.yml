@@ -16,5 +16,3 @@ jobs:
           feed-url: https://meysamhadeli.com/rss/
           readme-section: feed
           max: 5 # max number of items (default 5)
-
-
