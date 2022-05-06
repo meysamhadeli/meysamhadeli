@@ -18,17 +18,10 @@
 > I’m a software engineer with +7 years of experience in developing and designing distributed applications built on top
 of cutting-edge technologies. I mainly develop using .net and go, but would love to work with new languages and
 technologies wherever an opportunity presents itself.
-<p> 
- <strong>
-📙 Recent Blog Posts 
-  </strong>
- <!--START_SECTION:feed-->
-* [Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior-mediatr/)
-<!--END_SECTION:feed-->
-</p>
- 
-<!--START_SECTION:feed-->
 
+## 📙 Recent Blog Posts
+<!--START_SECTION:feed-->
+* [Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior-mediatr/)
 <!--END_SECTION:feed-->
 
 <p align="center"> 
