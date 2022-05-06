@@ -1,12 +1,11 @@
+# https://lukelowrey.com/github-action-to-add-blog-posts-to-your-profile/
 name: Update readme with blog posts
 
-on:
-  push:
-    branches:
-      - main
+on: 
   schedule:
-    - cron: 0 8 * * *
-       
+    # Once a day at 8 AM
+    - cron: 0 10 * * *
+    
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,3 +14,4 @@ jobs:
         with:
           feed-url: https://meysamhadeli.com/rss/
           readme-section: feed
+          max: 5 # max number of items (default 5)
