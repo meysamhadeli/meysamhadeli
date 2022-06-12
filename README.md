@@ -21,6 +21,7 @@ technologies wherever an opportunity presents itself.
 
 ## 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+* [Lazy Initialization in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;lazy-initialization-in-csharp&#x2F;)
 * [Caching pipeline behavior with MediatR](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;caching-pipeline-behavior-mediatr&#x2F;)
 <!--END_SECTION:feed-->
 
