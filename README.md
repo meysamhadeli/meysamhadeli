@@ -7,6 +7,9 @@
  <a href="https://www.linkedin.com/in/meysamhadeli" alt="meysam hadeli's github stats">
    <img src="https://img.shields.io/badge/-meysamhadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meysamhadeli" />
  </a>
+  <a href="https://twitter.com/meysamhadeli" alt="meysam hadeli's twitter">
+   <img src="https://img.shields.io/badge/-@meysamhadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ </a>
   <a href="https://meysamhadeli.com" alt="meysam hadeli's blog">
    <img src="https://img.shields.io/badge/meysamhadeli-967bb6?style=flat-square&logo=rss&logoColor=white" />
  </a>
