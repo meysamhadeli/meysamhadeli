@@ -22,11 +22,25 @@
 of cutting-edge technologies. I mainly develop using .net and go, but would love to work with new languages and
 technologies wherever an opportunity presents itself.
 
-## 📙 Recent Blog Posts
-<!--START_SECTION:feed-->
-* [Lazy Initialization in C#](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;lazy-initialization-in-csharp&#x2F;)
-* [Caching pipeline behavior with MediatR](https:&#x2F;&#x2F;meysamhadeli.com&#x2F;caching-pipeline-behavior-mediatr&#x2F;)
-<!--END_SECTION:feed-->
+#### 👷 Check out what I'm currently working on
+
+- [meysamhadeli/booking-microservices-sample](https://github.com/meysamhadeli/booking-microservices-sample) - Booking Microservices is a Sample application for booking ticket. This application based on different software architecture and technologies like .Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, kubernetes, tye, masstransit, RabbitMQ, Grpc, yarp reverse proxy, Identity Server, Redis, SqlServer, Entity Framework Core, Event Sourcing and different level of testing. (today)
+- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - List of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native (2 days ago)
+- [meysamhadeli/booking-modular-monolith-sample](https://github.com/meysamhadeli/booking-modular-monolith-sample) - Booking Modular Monolith is a Sample application for booking ticket. This application based on different software architecture and technologies like .Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, kubernetes, cap, Grpc, Identity Server, Redis, SqlServer, Entity Framework Core, Event Sourcing. (6 days ago)
+- [meysamhadeli/Chat.Application](https://github.com/meysamhadeli/Chat.Application) - Implementing chat application wit .net core and allows you to send/receive text messages with other users (1 month ago)
+- [dj-nitehawk/FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) - A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern (2 months ago)
+
+
+#### 📜 Latest blog posts
+- [Lazy Initialization in C#](https://meysamhadeli.com/lazy-initialization-in-csharp/) (1 month ago)
+- [Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior-mediatr/) (3 months ago)
+
+#### 🚀 Latest releases I've contributed to
+
+
+- [meysamhadeli/booking-microservices-sample @ v1.0.4](https://github.com/meysamhadeli/booking-microservices-sample/releases/tag/v1.0.4) (1 day ago)
+- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (3 days ago)
+
 
 <p align="center"> 
  <strong>
