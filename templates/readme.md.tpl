@@ -76,9 +76,6 @@ technologies wherever an opportunity presents itself.
   <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://kafka.apache.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" style="vertical-align:top; margin:4px" />
-  </a>
   <br/>
 </p>
 <br/>
