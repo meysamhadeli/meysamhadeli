@@ -18,11 +18,6 @@
  </a>
 </p>
 
-> I’m a software engineer with +7 years of experience in developing and designing distributed applications built on top
-of cutting-edge technologies. I mainly develop using .net and go, but would love to work with new languages and
-technologies wherever an opportunity presents itself.
-
-
 #### 📜 Latest blog posts
 
 {{- range rss "https://meysamhadeli.com/rss/" 3 }}
@@ -34,7 +29,6 @@ technologies wherever an opportunity presents itself.
 {{ range recentReleases 5 }}
 - [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
 {{- end }}
-
 
 <p align="center"> 
  <strong>
