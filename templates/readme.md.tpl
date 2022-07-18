@@ -22,11 +22,6 @@
 of cutting-edge technologies. I mainly develop using .net and go, but would love to work with new languages and
 technologies wherever an opportunity presents itself.
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
-
 
 #### 📜 Latest blog posts
 
