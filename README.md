@@ -18,11 +18,6 @@
  </a>
 </p>
 
-> I’m a software engineer with +7 years of experience in developing and designing distributed applications built on top
-of cutting-edge technologies. I mainly develop using .net and go, but would love to work with new languages and
-technologies wherever an opportunity presents itself.
-
-
 #### 📜 Latest blog posts
 - [Lazy Initialization in C#](https://meysamhadeli.com/lazy-initialization-in-csharp/) (1 month ago)
 - [Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior-mediatr/) (3 months ago)
@@ -32,7 +27,6 @@ technologies wherever an opportunity presents itself.
 
 - [meysamhadeli/booking-microservices-sample @ v1.0.4](https://github.com/meysamhadeli/booking-microservices-sample/releases/tag/v1.0.4) (3 days ago)
 - [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (5 days ago)
-
 
 <p align="center"> 
  <strong>
