@@ -41,17 +41,11 @@ technologies wherever an opportunity presents itself.
 </p>
 
 <p align="center">
-   <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://go.dev/">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
@@ -67,12 +61,6 @@ technologies wherever an opportunity presents itself.
   </a>
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://istio.io">
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.envoyproxy.io">
-    <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.elastic.co">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
