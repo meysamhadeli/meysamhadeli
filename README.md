@@ -25,8 +25,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [meysamhadeli/booking-microservices-sample @ v1.0.4](https://github.com/meysamhadeli/booking-microservices-sample/releases/tag/v1.0.4) (3 days ago)
-- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (5 days ago)
+- [meysamhadeli/booking-microservices-sample @ v1.0.4](https://github.com/meysamhadeli/booking-microservices-sample/releases/tag/v1.0.4) (4 days ago)
+- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (6 days ago)
 
 <p align="center"> 
  <strong>
