@@ -19,16 +19,14 @@
 </p>
 
 #### 📜 Latest blog posts
-
-{{- range rss "https://meysamhadeli.com/rss/" 3 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
+- [Lazy Initialization in C#](https://meysamhadeli.com/lazy-initialization-in-csharp/) (1 month ago)
+- [Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior-mediatr/) (3 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-{{ range recentReleases 5 }}
-- [{{ .Name }} @ {{ .LastRelease.TagName }}]({{ .LastRelease.URL }}) ({{ humanize .LastRelease.PublishedAt }})
-{{- end }}
+
+- [meysamhadeli/booking-microservices-sample @ v1.0.4](https://github.com/meysamhadeli/booking-microservices-sample/releases/tag/v1.0.4) (4 days ago)
+- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (6 days ago)
 
 <p align="center"> 
  <strong>
@@ -37,38 +35,51 @@
 </p>
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" with="50" height="50" alt="dotnet" >
+  </a>
+      <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" with="50" height="50" alt="c#" >
   </a>
   <a href="https://go.dev/">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" with="50" height="50" alt="golang" >
   </a>
-  <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+      <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="50" height="50" alt="javascript" >
   </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" with="50" height="50" alt="typescript" >
   </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <a href="https://angular.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" with="50" height="50" alt="angular" >
   </a>
-   <a href="https://azure.microsoft.com">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" style="vertical-align:top; margin:4px">
+    <a href="https://azure.microsoft.com/en-us/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
   </a>
-  <a href="https://kubernetes.io">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" with="50" height="50" alt="docker" >
   </a>
-  <a href="https://www.elastic.co">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
+   </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" with="50" height="50" alt="kubernetes" >
+  </a>  
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" with="50" height="50" alt="mongodb" >
+  </a>  
   </a>
-  <a href="https://grpc.io/">
-    <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" style="vertical-align:top; margin:4px;">
+  <a href="https://redis.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" with="50" height="50" alt="redis" >
+  </a>  
   </a>
-  <a href="https://www.rabbitmq.com">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" with="50" height="50" alt="sqlserver" >
+  </a>
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" with="50" height="50" alt="rabbitmq" >
+  </a>
+  <a href="https://kafka.apache.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" with="50" height="50" alt="kafka" >
   </a>
   <br/>
 </p>
