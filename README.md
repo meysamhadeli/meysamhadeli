@@ -22,6 +22,12 @@
 - [Lazy Initialization in C#](https://meysamhadeli.com/lazy-initialization-in-csharp/) (1 month ago)
 - [Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior-mediatr/) (3 months ago)
 
+#### 👷 Check out what I'm currently working on
+
+- [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) (today)
+- [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) - Booking Microservices is a Sample application for booking ticket. This application based on different software architecture and technologies like .Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, kubernetes, tye, masstransit, RabbitMQ, Grpc, yarp reverse proxy, Identity Server, Redis, SqlServer, Entity Framework Core, Event Sourcing and different level of testing. (1 day ago)
+- [meysamhadeli/booking-modular-monolith](https://github.com/meysamhadeli/booking-modular-monolith) - Booking Modular Monolith is a Sample application for booking ticket. This application based on different software architecture and technologies like .Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, kubernetes, cap, Grpc, Identity Server, Redis, SqlServer, Entity Framework Core, Event Sourcing. (1 day ago)
+
 #### 🚀 Latest releases I've contributed to
 
 
