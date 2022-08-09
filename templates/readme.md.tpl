@@ -22,6 +22,11 @@
 - [Lazy Initialization in C#](https://meysamhadeli.com/lazy-initialization-in-csharp/) (1 month ago)
 - [Caching pipeline behavior with MediatR](https://meysamhadeli.com/caching-pipeline-behavior-mediatr/) (3 months ago)
 
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+{{- end}}
+
 #### 🚀 Latest releases I've contributed to
 
 
