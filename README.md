@@ -2,19 +2,19 @@
 
 <p align="center"> 
  <a href="https://github.com/meysamhadeli" alt="meysam hadeli's github stats">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
+   <img src="https://img.shields.io/badge/-meysamhadeli-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/meysamhadeli" alt="meysam hadeli's github stats">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
+   <img src="https://img.shields.io/badge/-meysamhadeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meysamhadeli" />
  </a>
   <a href="https://twitter.com/meysamhadeli" alt="meysam hadeli's twitter">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
+   <img src="https://img.shields.io/badge/-@meysamhadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
   <a href="https://meysamhadeli.com" alt="meysam hadeli's blog">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=orange&logo=Microsoft+Edge&logoColor=FFFFFF&label=" />
+   <img src="https://img.shields.io/badge/meysamhadeli-967bb6?style=flat-square&logo=rss&logoColor=white" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=meysamhadeli&color=ff69b4&style=for-the-badge" />
+   <img src="https://komarev.com/ghpvc/?username=meysamhadeli&color=ff69b4&style=flat-square" />
  </a>
 </p>
 
