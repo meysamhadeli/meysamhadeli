@@ -26,7 +26,7 @@
 
 - [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) (today)
 - [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) (today)
-- [meysamhadeli/booking-modular-monolith](https://github.com/meysamhadeli/booking-modular-monolith) (today)
+- [meysamhadeli/problem-details](https://github.com/meysamhadeli/problem-details) (today)
 
 #### 🚀 Latest releases I've contributed to
 
