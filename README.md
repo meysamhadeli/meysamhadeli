@@ -20,8 +20,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) (2 days ago)
-- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) (3 days ago)
+- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) (today)
+- [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) (3 days ago)
 - [dotnetcore/EasyCaching](https://github.com/dotnetcore/EasyCaching) (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
