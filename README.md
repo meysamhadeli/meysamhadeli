@@ -20,9 +20,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) (3 days ago)
-- [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) (1 week ago)
-- [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) (2 weeks ago)
+- [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) (today)
+- [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) (1 day ago)
+- [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) (4 days ago)
 
 #### 🚀 Latest releases I've contributed to
 
