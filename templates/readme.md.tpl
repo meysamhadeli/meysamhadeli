@@ -82,8 +82,3 @@
   <br/>
 </p>
 <br/>
-
-<p align="center">
-  <a href="#" alt="meysam hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=meysamhadeli" /></a>
-</p>
-
