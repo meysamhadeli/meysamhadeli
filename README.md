@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm Meysam Hadeli 👋</h1>
 
+<p>
+I’m a software engineer with highly experince in building and designing distributed and scalebale systems
+using .Net and Golang. and I am passion for learning new technologies related to microservices and software architecture.
+aslo i'm a active open source developer and enjoy collaborating in open source world and share my knowledge in this community.
+</p>
+
 <p align="center"> 
  <a href="https://github.com/meysamhadeli" alt="meysam hadeli's github">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
@@ -21,8 +27,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) (today)
+- [meysamhadeli/problem-details](https://github.com/meysamhadeli/problem-details) (today)
 - [meysamhadeli/booking-microservices](https://github.com/meysamhadeli/booking-microservices) (1 day ago)
-- [meysamhadeli/shop-golang-microservices](https://github.com/meysamhadeli/shop-golang-microservices) (1 day ago)
 
 #### 🚀 Latest releases I've contributed to
 
