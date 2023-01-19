@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Meysam Hadeli 👋</h1>
 
 <p>
-I am a software engineer with highly experience in designing and building distributed and scalable systems using .Net and Golang. And, I'm passionate about learning about microservices and software architecture.
+I am a software engineer with highly experience in designing and building distributed and scalable systems using .Net and Golang. And, I'm enthusiast about learning microservices and software architecture.
 Also, I am an active open source developer and enjoy collaborating and sharing my knowledge in this community.
 </p>
 
