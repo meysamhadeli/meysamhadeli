@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Meysam Hadeli 👋</h1>
 
-<p>
-I am a software engineer with highly experience in designing and building distributed and scalable systems using .Net and Golang. And, I'm enthusiast about learning microservices and software architecture.
-Also, I am an active open source developer and enjoy collaborating and sharing my knowledge in this community.
-</p>
-
 <p align="center"> 
  <a href="https://github.com/meysamhadeli" alt="meysam hadeli's github">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
@@ -22,17 +17,20 @@ Also, I am an active open source developer and enjoy collaborating and sharing m
    <img src="https://komarev.com/ghpvc/?username=meysamhadeli&color=ff69b4&style=for-the-badge" />
  </a>
 </p>
+<p>
+I am a software engineer with highly experience in designing and building distributed and scalable systems using .Net and Golang. And, I'm enthusiast about learning microservices and software architecture.
+Also, I am an active open source developer and enjoy collaborating and sharing my knowledge in this community.
+</p>
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
-{{- end}}
+<p>Some of my projects and contributions include the following:</p>
 
-#### 🚀 Latest releases I've contributed to
-
-
-- [meysamhadeli/booking-microservices-sample @ v1.0.4](https://github.com/meysamhadeli/booking-microservices-sample/releases/tag/v1.0.4) (4 days ago)
-- [dj-nitehawk/FastEndpoints @ v4.3.1](https://github.com/dj-nitehawk/FastEndpoints/releases/tag/v4.3.1) (6 days ago)
+✈️ https://github.com/meysamhadeli/booking-microservices
+🛩️ https://github.com/meysamhadeli/booking-modular-monolith
+🌀 https://github.com/meysamhadeli/awesome-dotnet-tips
+🛍️ https://github.com/meysamhadeli/shop-golang-microservices
+🍿 https://github.com/meysamhadeli/problem-details
+🚀 https://github.com/FastEndpoints/FastEndpoints
+⚡https://github.com/dotnetcore/EasyCaching
 
 <p align="center"> 
  <strong>
