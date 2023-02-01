@@ -17,9 +17,8 @@
    <img src="https://komarev.com/ghpvc/?username=meysamhadeli&color=ff69b4&style=for-the-badge" />
  </a>
 </p>
-<p>
-I am a software engineer with highly experience in designing and building distributed and scalable systems using .Net and Golang. And, I'm enthusiast about learning microservices and software architecture.
-Also, I am an active open source developer and enjoy collaborating and sharing my knowledge in this community.
+<p> 
+I am a software engineer with highly experience experience in designing and building distributed and scalable systems in .Net and Golang. Also, I am interested in learning about microservices and software architecture. In addition, I am an active open source developer and enjoy collaborating and sharing my knowledge in this community.
 </p>
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
