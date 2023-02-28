@@ -65,6 +65,9 @@ I am a software engineer with highly experience in designing and building distri
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" with="50" height="50" alt="kubernetes" >
   </a>  
   </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
+  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" with="50" height="50" alt="mongodb" >
   </a>  
