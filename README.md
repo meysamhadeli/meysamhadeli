@@ -88,3 +88,12 @@ I am a software engineer with highly experience in designing and building distri
   <br/>
 </p>
 <br/>
+
+<p align="center"> 
+ <strong>
+  Activities
+  </strong>
+</p>
+<p align="center">
+  <a href="#" alt="meysam hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=meysamhadeli" /></a>
+</p>
