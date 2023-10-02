@@ -27,7 +27,7 @@ I am a software engineer with highly experience in designing and building distri
 - 🛩️ https://github.com/meysamhadeli/booking-modular-monolith
 - 🌀 https://github.com/meysamhadeli/awesome-dotnet-tips
 - 🛒 https://github.com/meysamhadeli/ecommerce-monolith
-- 🛍️ https://github.com/meysamhadeli/shop-golang-microservices
+- 📍 https://github.com/meysamhadeli/shop-golang-microservices
 - 🍿 https://github.com/meysamhadeli/problem-details
 - 🚀 https://github.com/FastEndpoints/FastEndpoints (contribution)
 - ⚡ https://github.com/dotnetcore/EasyCaching (contribution)
