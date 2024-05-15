@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Meysam Hadeli 👋</h1>
 
 <p align="center"> 
+ <a href="meysamhadeli@gmail.com" alt="meysam hadeli's email">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" />
+ </a> 
  <a href="https://github.com/meysamhadeli" alt="meysam hadeli's github">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
  </a>
