@@ -10,9 +10,6 @@
   <a href="https://twitter.com/meysamhadeli" alt="meysam hadeli's twitter">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
  </a>
-  <a href="https://meysamhadeli.com" alt="meysam hadeli's blog">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=967bb6&logo=Microsoft+Edge&logoColor=FFFFFF&label=" />
- </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=meysamhadeli&color=ff69b4&style=for-the-badge" />
  </a>
