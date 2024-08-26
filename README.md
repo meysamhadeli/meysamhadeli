@@ -31,9 +31,9 @@ I am a software engineer with highly experience in designing and building distri
 - 🍿 https://github.com/meysamhadeli/problem-details
 - 🛫 https://github.com/meysamhadeli/booking-microservices-express-js
 - 🛬 https://github.com/meysamhadeli/booking-microservices-nestjs
-- 🚀 https://github.com/FastEndpoints/FastEndpoints (contribution)
-- ⚡ https://github.com/dotnetcore/EasyCaching (contribution)
-- ✅ https://github.com/testcontainers/testcontainers-dotnet (contribution)
+- 🚀 https://github.com/FastEndpoints/FastEndpoints (contributer)
+- ⚡ https://github.com/dotnetcore/EasyCaching (contributer)
+- ✅ https://github.com/testcontainers/testcontainers-dotnet (contributer)
 
 <p align="center"> 
  <strong>
