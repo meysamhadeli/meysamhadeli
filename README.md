@@ -22,7 +22,7 @@
  </a>
 </p>
 <p> 
-I am a software engineer with highly experience in designing and building distributed and scalable systems in .Net and Golang. Also, I am interested in learning about microservices and software architecture. In addition, I am an active open source developer and enjoy collaborating and sharing my knowledge in this community.
+I am a software engineer with highly experience in designing and building distributed and scalable systems in .Net and Golang. Also, I am interested in learning about microservices and software architecture. In addition, I am an active open source developer and enjoy collaborating and sharing my knowledge in this community. Also, I am proud to be recognized as a Microsoft MVP, an award from Microsoft that highlights my technical expertise and contributions to the .Net community.
 </p>
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
