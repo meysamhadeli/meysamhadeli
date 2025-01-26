@@ -53,9 +53,6 @@ I am a senior software engineer with high experience in designing and building d
   <a href="https://www.java.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" with="50" height="50" alt="java" >
   </a>
-   <a href="https://spring.io/projects/spring-boot">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" with="50" height="50" alt="spring" >
-  </a>
   <a href="https://go.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" with="50" height="50" alt="golang" >
   </a>
