@@ -47,6 +47,15 @@ I am a senior software engineer with high experience in designing and building d
   <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" with="50" height="50" alt="dotnet" >
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" with="50" height="50" alt="csharp" >
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" with="50" height="50" alt="java" >
+  </a>
+   <a href="https://spring.io/projects/spring-boot">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" with="50" height="50" alt="spring" >
+  </a>
   <a href="https://go.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" with="50" height="50" alt="golang" >
   </a>
@@ -55,9 +64,6 @@ I am a senior software engineer with high experience in designing and building d
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" with="50" height="50" alt="typescript" >
-  </a>
-  <a href="https://angular.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" with="50" height="50" alt="angular" >
   </a>
     <a href="https://azure.microsoft.com/en-us/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
