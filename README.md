@@ -33,6 +33,7 @@ I am a senior software engineer with high experience in designing and building d
 - 🍿 https://github.com/meysamhadeli/problem-details
 - 🛫 https://github.com/meysamhadeli/booking-microservices-express-js
 - 🛬 https://github.com/meysamhadeli/booking-microservices-nestjs
+- 🛸 https://github.com/meysamhadeli/booking-microservices-java-spring-boot
 - 🚀 https://github.com/FastEndpoints/FastEndpoints (contributor)
 - ⚡ https://github.com/dotnetcore/EasyCaching (contributor)
 - ✅ https://github.com/testcontainers/testcontainers-dotnet (contributor)
