@@ -19,7 +19,7 @@
  </a>
 </p>
 <p> 
-I am a senior software engineer with high experience in designing and building distributed and scalable systems using C#, .Net, and Golang on top of cutting-edge technologies. Also, my interests are software architecture, distributed systems and cloud native applications. In addition, I am an active open source developer and enjoy learning about new technologies and collaborating and sharing my knowledge in this community.
+I am a Senior Software Engineer, Open-Source Developer, and Microsoft MVP in Developer Technologies with over 10 years of experience in the tech industry. I have extensive experience in designing and implementing distributed systems and cloud-native applications using C#, .NET, Golang and Azure on top of cutting-edge technologies. I am passionate about sharing knowledge through Open-Source projects, blogging, public speaking and training.
 </p>
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
