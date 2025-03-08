@@ -19,7 +19,7 @@
  </a>
 </p>
 <p> 
-I am a Senior Software Engineer, Open-Source Contributor, and Microsoft MVP in Developer Technologies with over 10 years of experience in software development. I have extensive experience in designing and implementing distributed systems and cloud-native applications using C#, .NET, Golang and Azure on top of cutting-edge technologies. I am passionate about sharing knowledge through Open-Source projects, blogging, public speaking and training.
+I am a Senior Software Engineer, Open Source Developer, and Microsoft MVP in Developer Technologies with over 10 years of experience in software development. I have extensive experience in designing and implementing distributed systems and cloud-native applications using C#, .NET, Golang and Azure on top of cutting-edge technologies. I am passionate about sharing knowledge through open-source projects, blogging, public speaking and training.
 </p>
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
