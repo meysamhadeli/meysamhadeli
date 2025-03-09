@@ -51,11 +51,11 @@ I am a Senior Software Engineer, Open Source Developer, and Microsoft MVP in Dev
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" with="50" height="50" alt="csharp" >
   </a>
+   <a href="https://go.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" with="50" height="50" alt="golang" >
+  </a>
   <a href="https://www.java.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" with="50" height="50" alt="java" >
-  </a>
-  <a href="https://go.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" with="50" height="50" alt="golang" >
   </a>
       <a href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" with="50" height="50" alt="javascript" >
