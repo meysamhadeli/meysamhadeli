@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Meysam Hadeli 👋</h1>
 
- <p align="center">
-  <a href="https://mvp.microsoft.com/en-us/PublicProfile/6203149"><img alt="Microsoft Most Valuable Professional (MVP)" height="84" width="208" src="./assets/Microsoft-Most-Valuable-Professional.png"/></a>
-</p>
-
 <p align="center"> 
  <a href="https://github.com/meysamhadeli" alt="meysam hadeli's github">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
