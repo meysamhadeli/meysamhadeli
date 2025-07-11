@@ -15,7 +15,7 @@
  </a>
 </p>
 <p> 
-I am a Software Architect and Open Source Developer with over 10 years of experience in software development. I have extensive experience in designing and implementing distributed systems and cloud-native applications using C#, Java, and Go on top of cutting-edge technologies. I am passionate about sharing knowledge through open-source projects, blogging, public speaking and training.
+I am a Software Architect and Open Source Developer with over 10 years of experience in software development. I have extensive experience in designing and implementing distributed systems and cloud-native applications on top of cutting-edge technologies. I am passionate about sharing knowledge through open-source projects, blogging, public speaking and training.
 </p>
 
 <h2 align="center">🥷 Open Source Projects and Contributions</h2>
