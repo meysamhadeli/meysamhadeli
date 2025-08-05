@@ -22,6 +22,7 @@ I am a Senior Software Engineer and Open Source Developer with over 10 years of 
 
 - 🪁 https://github.com/meysamhadeli/booking-microservices
 - 🛩️ https://github.com/meysamhadeli/booking-modular-monolith
+- ✈️ https://github.com/meysamhadeli/booking-monolith
 - 🌀 https://github.com/meysamhadeli/awesome-dotnet-tips
 - 🛒 https://github.com/meysamhadeli/ecommerce-monolith
 - 📍 https://github.com/meysamhadeli/shop-golang-microservices
