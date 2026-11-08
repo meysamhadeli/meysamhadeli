@@ -34,7 +34,7 @@ I am a Software Architect and Open Source Developer with over 10 years of experi
 - 🛬 https://github.com/meysamhadeli/booking-microservices-nestjs
 - 🛸 https://github.com/meysamhadeli/booking-microservices-java-spring-boot
 - 🍿 https://github.com/meysamhadeli/problem-details
-- ☁️ https://github.com/CommunityToolkit/Aspire — Contributor
+- ☁️ https://github.com/CommunityToolkit/Aspire - contributor
 
 <p align="center"> 
  <strong>
